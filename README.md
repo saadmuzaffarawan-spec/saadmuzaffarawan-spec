@@ -1,7 +1,7 @@
+<h1 align="center">Hey 👋What's Up?</h1>
+
 # 💫 About Me:
 Im currently PURSUING CYBERSECURITY AT pafiast, i'm developing cpp and pythoin programming skills, im currently practicing builiding 2.5D gaems through cpp and raylibs , I'm currently learning cybersecurity by google, and practicing cpp and raylibs for gamedev. fun fact, in last couple of years ive mastered after effects video editing and 3d camera animations, bit of graphic designing skills, and worked on a physical businesss for about an year and due to university ive to let go that business.<br>
-
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
