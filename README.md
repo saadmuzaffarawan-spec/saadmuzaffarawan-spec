@@ -9,7 +9,7 @@
 
 ## 🚀 Current Streak
 🟩 Daily C++ + Raylib practice  
-🟩 Building small complete games (GitHub projects)  
+🟩 Building small complete games ([GitHub Projects](https://github.com/saadmuzaffarawan-spec?tab=repositories))  
 🟩 Learning Cybersecurity (Google + University)  
 🟩 Uploading dev progress regularly  
 
@@ -23,16 +23,7 @@
 - 🛡️ Cybersecurity fundamentals  
 - 🐍 Python for automation & security scripts  
 
----
-
-## 🧪 Active Projects
-- 🔦 Torch Survival Game (Raylib)  
-- 🤖 Enemy AI System  
-- 🧱 Tilemap Collision (Arrays)  
-- 🔫 Shooting Mechanics  
-- ❤️ Health & Score System  
-
-➡️ All projects are **small, complete, and documented**
+> All projects are **small, complete, and documented**
 
 ---
 
@@ -93,20 +84,20 @@
 ⭐ From Pakistan → Building games, learning security, documenting the journey.
 </p>
 
-## 🐍 Contribution Snake
+---
 
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadmuzaffarawan-spec/saadmuzaffarawan-spec/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saadmuzaffarawan-spec/saadmuzaffarawan-spec/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saadmuzaffarawan-spec/saadmuzaffarawan-spec/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saadmuzaffarawan-spec/saadmuzaffarawan-spec/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
+
+---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saadmuzaffarawan-spec&theme=radical&hide_border=true" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadmuzaffarawan-spec&show_icons=true&theme=radical" />
 </p>
