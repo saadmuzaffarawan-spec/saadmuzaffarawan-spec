@@ -96,5 +96,17 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadmuzaffarawan-spec/saadmuzaffarawan-spec/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/saadmuzaffarawan-spec/saadmuzaffarawan-spec/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saadmuzaffarawan-spec&theme=radical&hide_border=true" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadmuzaffarawan-spec&show_icons=true&theme=radical" />
 </p>
