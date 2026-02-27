@@ -1,34 +1,100 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">⚡ Saad Muzaffar Awan ⚡</h1>
+<h3 align="center">Cybersecurity Student • C++ Game Dev • Raylib Builder • Future Security Engineer</h3>
 
-# 💫 About Me:
-Im currently PURSUING CYBERSECURITY AT pafiast, i'm developing cpp and pythoin programming skills, im currently practicing builiding 2.5D gaems through cpp and raylibs , I'm currently learning cybersecurity by google, and practicing cpp and raylibs for gamedev. fun fact, in last couple of years ive mastered after effects video editing and 3d camera animations, bit of graphic designing skills, and worked on a physical businesss for about an year and due to university ive to let go that business.<br>
+<p align="center">
+🔥 Building games daily | 🧠 Learning security | 🎯 Consistency over motivation
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-</div>
+## 🚀 Current Streak
+🟩 Daily C++ + Raylib practice  
+🟩 Building small complete games (GitHub projects)  
+🟩 Learning Cybersecurity (Google + University)  
+🟩 Uploading dev progress regularly  
 
-###
+> **Goal:** Become a Game Engine + Security Developer
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/saad-muzaffar-66a31138b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@SaadMuzaffarAwan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=youtube&logo=youtube&label=NewBIE&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://saad-muzaffar.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
-  </a>
-</div>
+---
 
-###
+## 🎮 Current Focus
+- 🕹️ 2.5D & Top-Down Games using C++ + Raylib  
+- 🧠 DSA + Problem Solving in C++  
+- 🛡️ Cybersecurity fundamentals  
+- 🐍 Python for automation & security scripts  
+
+---
+
+## 🧪 Active Projects
+- 🔦 Torch Survival Game (Raylib)  
+- 🤖 Enemy AI System  
+- 🧱 Tilemap Collision (Arrays)  
+- 🔫 Shooting Mechanics  
+- ❤️ Health & Score System  
+
+➡️ All projects are **small, complete, and documented**
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55"/>
+<img src="https://skillicons.dev/icons?i=py" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+</p>
+
+---
+
+## 🎯 Skills Beyond Code
+🎬 After Effects (3D Camera • Motion Graphics)  
+🎨 Graphic Design Basics  
+📈 Ran a Physical Business for 1 Year  
+📹 YouTube Content Creation Mindset  
+
+---
+
+## 🧠 Learning Roadmap
+- [x] C++ Fundamentals  
+- [x] Raylib Basics  
+- [ ] Tilemaps & Collision System  
+- [ ] Mini Game Engine Structure  
+- [ ] Python Security Tools  
+- [ ] Networking Fundamentals  
+- [ ] Ethical Hacking Labs  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/saad-muzaffar-66a31138b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@SaadMuzaffarAwan">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://saad-muzaffar.itch.io/">
+<img src="https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=itch.io&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ⚡ Dev Philosophy
+> Build small.  
+> Ship fast.  
+> Stay consistent.  
+> Level up daily.
+
+---
+
+<p align="center">
+⭐ From Pakistan → Building games, learning security, documenting the journey.
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadmuzaffarawan-spec/saadmuzaffarawan-spec/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
